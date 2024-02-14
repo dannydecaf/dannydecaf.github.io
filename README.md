@@ -1,3 +1,2 @@
-## Lockitin, 1 genuine connection is worth more than 100 matches
+## GrubShare, your one stop shop for recipes to use and share
 
-[Lockitin GitHub Repo](https://github.com/dannydecaf/lockitin-native-app)
